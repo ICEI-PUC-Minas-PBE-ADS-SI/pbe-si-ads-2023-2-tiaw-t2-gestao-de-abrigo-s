@@ -118,16 +118,26 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+Elisa Akemi nasceu em uma pequena comunidade rural, onde a falta de recursos era uma constante. Desde jovem, Maria sentiu a necessidade de fazer a diferença na vida das pessoas ao seu redor. Sua história é uma jornada de perseverança e dedicação à causa social.
+
+Depois de se formar, Maria decidiu agir. Ela fundou uma pequena ONG chamada "Mãos Solidárias" para atender às necessidades das pessoas em situação de vulnerabilidade em sua cidade natal. Com recursos limitados, ela começou a oferecer abrigo, alimentos e apoio emocional a quem precisasse, porém como possui uma carreira renomada e uma agenda cheia de tarefas diárias para administrar sua ONG, enfrenta dificuldades em administrar seus recursos, doações e voluntários que contribuem para essa ação, com isso espera um software que possa auxiliar em suas demandas. 
+
+|EU COMO...           | PRECISO ...                        |PARA ...                                |
+|-------------------- |------------------------------------|----------------------------------------|
+|Administradora de ONG| Organizar os meus recursos         |Ter maior controle do que possuo e melhorar o serviço prestado|
+
+
+Paulo Padilha
+
+Paulo Padilha nasceu em uma cidade pequena, onde desde cedo testemunhou as dificuldades enfrentadas por famílias de baixa renda. Essas experiências moldaram seu desejo de fazer a diferença na vida das pessoas e de combater as injustiças sociais. Com isso, essa paixão o levou a estudar Direito na universidade, onde ele viu a oportunidade de utilizar o conhecimento jurídico para promover a justiça social.
+
+Seu trabalho incansável e sua paixão pelo bem-estar dos outros o transformaram em um exemplo notável de como uma pessoa pode causar um impacto positivo significativo na sociedade. Paulo continua sua missão, inspirando outros a se unirem na luta contra as desigualdades e na busca por um mundo mais justo e igualitário. Hoje, a crescente complexidade das operações da ONG de Paulo Padilha, a necessidade de gerenciar recursos financeiros, voluntários e programas de assistência, bem como acompanhar o progresso e os resultados de suas iniciativas, torna fundamental a adoção de um software de gestão específico para organizações sem fins lucrativos. 
+
+|EU COMO...                 | PRECISO ...                    |PARA ...                                |
+|--------------------       |--------------------------------|----------------------------------------|
+|Advogado e fundador de ONG | Organizar os meus recursos     |Acompanhar o progresso e os resultados de suas iniciativas
+
+
 
 ## Requisitos
 
