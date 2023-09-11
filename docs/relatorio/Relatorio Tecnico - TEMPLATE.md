@@ -147,8 +147,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário tenha sua agenda de tarefas | ALTA | 
+|RF-002| Permitir que o usuário doe recursos e valores | ALTA |
+|RF-003| Permitir que o usuário crie uma conta e faça login | ALTA |
+|RF-004| Permitir que o usuário visualize a quantidade de recursos disponíveis| ALTA |
+|RF-005| Permitir interação via chat com a ONGs e Abrigos | MÉDIA | 
+|RF-006| Localização das ONGs e Abrigos e meios de contatos| MÉDIA |
+
+
 
 
 ### Requisitos não Funcionais
