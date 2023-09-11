@@ -1,21 +1,16 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+Software para Gestão de Abrigos e Recursos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-`CURSO` 
-
-......  COLOQUE AQUI O SEU TEXTO ......
+Curso: Análise e Desenvolvimento de Sistemas
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+- Adenilson Rodrigues Cordeio Junior
+- Arthur Henrique Ribeiro Beiral
+- Bruno Schermam Oliveira
+- Daniel Almeida Espindola
+- Flávio Henrique Lara Santos
+- Thierry Souza Gomes
 
 # Estrutura do Documento
 
@@ -56,71 +51,25 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Diante de uma sociedade onde predomina as desigualdades sociais e econômicas, e como medida paliativa para atender as necessidades básicas de sobrevivência, muitas das vezes negligenciadas pelo Estado, é de suma importância que a sociedade tenha uma solução para amenizar o sofrimento das pessoas em situação de vulnerabilidade social. 
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso compromisso é mais do que apenas uma resposta à carência material; é uma demonstração do nosso comprometimento com a solidariedade, empatia e responsabilidade social. 
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Com isso, desenvolvemos o projeto "Gestão de Abrigos" para atender esse desafio, uma iniciativa dedicada a disponibilizar recursos básicos a essa parcela da população, como: disponibilização de moradias provisórias, alimentação, e diversos outros cuidados básicos às pessoas necessitadas.
+
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Em momentos de vulnerabilidade, a objetividade na busca por soluções, mesmo que temporárias, é fundamental. Em resumo, nossa aplicação de gestão de abrigos visa otimizar a prestação de serviços a indivíduos em necessidade, garantindo que os recursos sejam alocados eficientemente, que os residentes recebam assistência adequada e que a operação do abrigo seja segura e organizada.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Diretamente essa aplicação visa a atender Administradores de ONGs e Abrigos , Trabalhadores Sociais, Financiadores e Doadores, Autoridades e Agências Governamentais, e voluntários da área que irão prestar todo o apoio necessário a pessoas em vulnerabilidade.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
@@ -132,7 +81,8 @@
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+[Persona 1:](file:///C:/Users/adejunior/Desktop/Atividades%20PUC/Trabalho%20interdiciplinar/Persona%201.pdf)
+
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
