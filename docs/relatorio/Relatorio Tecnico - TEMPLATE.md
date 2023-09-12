@@ -147,9 +147,16 @@ Seu trabalho incansável e sua paixão pelo bem-estar dos outros o transformaram
 
 |EU COMO...                 | PRECISO ...                    |PARA ...                                |
 |--------------------       |--------------------------------|----------------------------------------|
+|Doador ativo em instituições de moradia temporária  | Doar valores e recursos      | Contribuir com o projeto e ajudar pessoas necessitadas |
+
+
+Ricardo Oliveira
+
+Ricardo Oliveira, apesar de crescer em uma família financeiramente desafiada, tinha um talento para mecânica e uma determinação inabalável. Em sua adolescência os problemas financeiros aumentaram, o que o levou a abrigos temporários com sua família, mas nunca desistiu de seus sonhos. Com trabalho árduo e persistência ele conseguiu uma bolsa de estudos em uma universidade próxima, onde se formou em engenharia automotiva. Posteriormente, fundou a Oliveira Motors, uma empresa atualmente bem-sucedida. Sua experiência nos abrigos o inspirou a doar generosamente e fazer a diferença na vida de outras pessoas em necessidade. 
+
+|EU COMO...                 | PRECISO ...                    |PARA ...                                |
+|--------------------       |--------------------------------|----------------------------------------|
 |Advogado e fundador de ONG | Organizar os meus recursos     |Acompanhar o progresso e os resultados de suas iniciativas
-
-
 
 ## Requisitos
 
