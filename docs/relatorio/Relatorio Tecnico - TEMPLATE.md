@@ -236,24 +236,27 @@ Esta interface é projetada para a equipe de administração da ONG, incluindo g
 Permite acesso às funcionalidades de alto nível, como gerenciamento de recursos, alocação de leitos, captação de recursos e relatórios.
 Design intuitivo com gráficos e painéis de controle para visualizar informações críticas rapidamente.
 Acesso a relatórios detalhados para análises estratégicas.
+
 Interface de Beneficiários:
 
 Destinada aos beneficiários da ONG, como pessoas em situação de vulnerabilidade.
 Interface simplificada e amigável com foco em acessibilidade.
 Possibilita o registro de informações pessoais, necessidades, agendamento de atividades e solicitações de recursos.
 Comunicação direta com a equipe da ONG para pedidos e feedback.
+
 Interface de Doadores e Parceiros:
 
 Projetada para doadores individuais, empresas e parceiros da ONG.
 Permite a doação de recursos financeiros, alimentos, roupas e outros itens essenciais.
 Comunicação transparente sobre como as doações são usadas e relatórios de impacto para doadores.
 Oferece oportunidades de parcerias estratégicas e engajamento contínuo.
+
 Interface de Voluntários:
 
 Destinada aos voluntários da ONG que desempenham um papel fundamental no atendimento aos beneficiários.
-Permite a inscrição de voluntários, treinamento online e atribuição de tarefas.
-Calendário para visualizar escalas de voluntariado e eventos.
+Permite a inscrição de voluntários.
 Comunicação interna para manter voluntários informados.
+
 2. Elaboração das Interfaces para Atender Requisitos Funcionais e Não Funcionais
 
 Requisitos Funcionais:
@@ -276,17 +279,11 @@ Segurança de Dados: Medidas rigorosas de segurança são implementadas para pro
 
 Responsividade: As interfaces são responsivas e se adaptam a diferentes dispositivos, garantindo uma experiência consistente em computadores, tablets e smartphones.
 
-Integração: A solução é projetada para se integrar facilmente a outros sistemas de saúde, assistência social e bancos de dados de doadores, cumprindo o requisito de integração.
-
-Escalabilidade: A arquitetura da solução é escalável para acomodar o crescimento da ONG e das operações.
-
 Desempenho: A solução é otimizada para oferecer desempenho rápido e confiável, mesmo em momentos de alta demanda, atendendo aos requisitos de desempenho.
 
 O projeto de interface leva em consideração tanto os requisitos funcionais quanto os não funcionais para criar uma solução completa e eficaz para a gestão de recursos em ONGs que atendem pessoas vulneráveis.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
+[Especificações do
 > Projeto](#especificações-do-projeto).
 
 ## User Flow
