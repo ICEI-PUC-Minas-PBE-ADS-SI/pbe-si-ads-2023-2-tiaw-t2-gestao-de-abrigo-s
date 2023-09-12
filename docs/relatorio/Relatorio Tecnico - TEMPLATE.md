@@ -224,10 +224,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-Projeto de Interface para Solução de Gestão de Recursos em ONGs
+Nome do Software: Gestão de Abrigos e Recursos
 
 1. Principais Interfaces da Solução
-
+   
 A solução de gestão de recursos em ONGs será composta por várias interfaces que se integram para fornecer uma experiência completa e eficaz. Aqui estão as principais interfaces:
 
 Interface Administrativa:
