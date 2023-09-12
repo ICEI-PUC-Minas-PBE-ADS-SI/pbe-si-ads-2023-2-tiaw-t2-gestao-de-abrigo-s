@@ -83,7 +83,8 @@ Diretamente essa aplicação visa a atender Administradores de ONGs e Abrigos , 
 
 Persona 1
 
-![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/143046124/b7310ac4-860c-4a0e-8332-9def7e3b8ea6)
+![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/143046124/e502e79c-d695-4aa5-a195-46d7073a0626)
+
 
 
 Persona 2
