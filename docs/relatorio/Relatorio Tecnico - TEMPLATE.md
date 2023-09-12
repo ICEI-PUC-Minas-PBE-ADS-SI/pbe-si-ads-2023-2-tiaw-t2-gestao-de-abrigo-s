@@ -85,6 +85,9 @@ Persona 1
 
 ![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/143046124/e502e79c-d695-4aa5-a195-46d7073a0626)
 
+Mapa de empatia persona 1
+
+![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/143046124/69499320-2443-4eeb-84b5-c80c97df1181)
 
 
 Persona 2
@@ -110,11 +113,6 @@ Persona 2
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > 
 > 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
 ## Histórias de Usuários
