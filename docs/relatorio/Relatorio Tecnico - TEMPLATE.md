@@ -94,6 +94,11 @@ Persona 2
 
 ![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/143046124/af4e14d3-1b4f-4b2c-9fa1-55ba6e66da8a)
 
+Mapa de Empatia Persona 2:
+
+![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/143046124/27a337ed-8a3e-4897-ba9b-ce3e77aa6c0b)
+
+
 Persona 3:
 
 ![Persona3_page-0001](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/142936348/f08d0054-d7a1-4695-9b46-be2bc1df108a)
