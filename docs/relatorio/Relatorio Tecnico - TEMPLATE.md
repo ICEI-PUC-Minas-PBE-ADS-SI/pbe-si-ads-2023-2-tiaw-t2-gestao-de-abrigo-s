@@ -88,7 +88,8 @@ Persona 1
 
 
 Persona 2
-![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/143046124/ebbe1ec7-7861-479e-a143-b209effc9281)
+
+![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/143046124/af4e14d3-1b4f-4b2c-9fa1-55ba6e66da8a)
 
 
 
