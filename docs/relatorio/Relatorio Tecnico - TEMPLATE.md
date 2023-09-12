@@ -224,7 +224,65 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Projeto de Interface para Solução de Gestão de Recursos em ONGs
+
+1. Principais Interfaces da Solução
+
+A solução de gestão de recursos em ONGs será composta por várias interfaces que se integram para fornecer uma experiência completa e eficaz. Aqui estão as principais interfaces:
+
+Interface Administrativa:
+
+Esta interface é projetada para a equipe de administração da ONG, incluindo gestores e coordenadores.
+Permite acesso às funcionalidades de alto nível, como gerenciamento de recursos, alocação de leitos, captação de recursos e relatórios.
+Design intuitivo com gráficos e painéis de controle para visualizar informações críticas rapidamente.
+Acesso a relatórios detalhados para análises estratégicas.
+Interface de Beneficiários:
+
+Destinada aos beneficiários da ONG, como pessoas em situação de vulnerabilidade.
+Interface simplificada e amigável com foco em acessibilidade.
+Possibilita o registro de informações pessoais, necessidades, agendamento de atividades e solicitações de recursos.
+Comunicação direta com a equipe da ONG para pedidos e feedback.
+Interface de Doadores e Parceiros:
+
+Projetada para doadores individuais, empresas e parceiros da ONG.
+Permite a doação de recursos financeiros, alimentos, roupas e outros itens essenciais.
+Comunicação transparente sobre como as doações são usadas e relatórios de impacto para doadores.
+Oferece oportunidades de parcerias estratégicas e engajamento contínuo.
+Interface de Voluntários:
+
+Destinada aos voluntários da ONG que desempenham um papel fundamental no atendimento aos beneficiários.
+Permite a inscrição de voluntários, treinamento online e atribuição de tarefas.
+Calendário para visualizar escalas de voluntariado e eventos.
+Comunicação interna para manter voluntários informados.
+2. Elaboração das Interfaces para Atender Requisitos Funcionais e Não Funcionais
+
+Requisitos Funcionais:
+
+Gestão de Beneficiários: A interface administrativa oferece uma visão geral dos beneficiários, permitindo o registro e a atualização de informações. A interface de beneficiários é simples e acessível, permitindo que eles se inscrevam, agendem atividades e façam solicitações de recursos.
+
+Alocação de Recursos: A alocação eficaz de recursos é facilitada por meio da interface administrativa, que permite a gestão detalhada de leitos, comida e outros itens essenciais.
+
+Gestão de Doações: A interface de doadores e parceiros simplifica a doação de recursos e fornece feedback transparente sobre como as doações são usadas.
+
+Comunicação e Engajamento: Todas as interfaces incluem ferramentas de comunicação para interação eficaz entre a equipe da ONG, beneficiários, doadores e voluntários.
+
+Relatórios e Análises: A interface administrativa oferece relatórios detalhados, atendendo ao requisito de análise estratégica e prestação de contas.
+
+Requisitos Não Funcionais:
+
+Usabilidade e Acessibilidade: Todas as interfaces são projetadas para serem intuitivas, acessíveis e fáceis de usar, atendendo ao requisito de acessibilidade.
+
+Segurança de Dados: Medidas rigorosas de segurança são implementadas para proteger informações confidenciais, atendendo aos requisitos de segurança.
+
+Responsividade: As interfaces são responsivas e se adaptam a diferentes dispositivos, garantindo uma experiência consistente em computadores, tablets e smartphones.
+
+Integração: A solução é projetada para se integrar facilmente a outros sistemas de saúde, assistência social e bancos de dados de doadores, cumprindo o requisito de integração.
+
+Escalabilidade: A arquitetura da solução é escalável para acomodar o crescimento da ONG e das operações.
+
+Desempenho: A solução é otimizada para oferecer desempenho rápido e confiável, mesmo em momentos de alta demanda, atendendo aos requisitos de desempenho.
+
+O projeto de interface leva em consideração tanto os requisitos funcionais quanto os não funcionais para criar uma solução completa e eficaz para a gestão de recursos em ONGs que atendem pessoas vulneráveis.
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
