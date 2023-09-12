@@ -283,9 +283,6 @@ Desempenho: A solução é otimizada para oferecer desempenho rápido e confiáv
 
 O projeto de interface leva em consideração tanto os requisitos funcionais quanto os não funcionais para criar uma solução completa e eficaz para a gestão de recursos em ONGs que atendem pessoas vulneráveis.
 
-[Especificações do
-> Projeto](#especificações-do-projeto).
-
 ## User Flow
 
 ......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
