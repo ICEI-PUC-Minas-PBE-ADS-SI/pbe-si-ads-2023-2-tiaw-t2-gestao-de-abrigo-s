@@ -147,7 +147,7 @@ Seu trabalho incansável e sua paixão pelo bem-estar dos outros o transformaram
 
 |EU COMO...                 | PRECISO ...                    |PARA ...                                |
 |--------------------       |--------------------------------|----------------------------------------|
-|Doador ativo em instituições de moradia temporária  | Doar valores e recursos      | Contribuir com o projeto e ajudar pessoas necessitadas |
+|Advogado e fundador de ONG | Organizar os meus recursos     |Acompanhar o progresso e os resultados de suas iniciativas
 
 
 Ricardo Oliveira
@@ -156,7 +156,12 @@ Ricardo Oliveira, apesar de crescer em uma família financeiramente desafiada, t
 
 |EU COMO...                 | PRECISO ...                    |PARA ...                                |
 |--------------------       |--------------------------------|----------------------------------------|
-|Advogado e fundador de ONG | Organizar os meus recursos     |Acompanhar o progresso e os resultados de suas iniciativas
+|Doador ativo em instituições de moradia temporária  | Doar valores e recursos      | Contribuir com o projeto e ajudar pessoas necessitadas |
+
+
+
+
+
 
 ## Requisitos
 
