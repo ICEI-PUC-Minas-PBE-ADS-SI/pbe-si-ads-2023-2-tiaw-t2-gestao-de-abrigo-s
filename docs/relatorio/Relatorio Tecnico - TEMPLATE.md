@@ -265,21 +265,64 @@ O projeto de interface leva em consideração tanto os requisitos funcionais qua
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+Fluxo do Usuário para Doadores:
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+Página Inicial:
+
+O usuário chega à página inicial do site.
+Eles têm a opção de fazer login, se cadastrar como doador ou navegar anonimamente.
+Cadastro de Doador:
+
+Se o usuário optar por se cadastrar, eles fornecem informações pessoais, como nome, endereço de e-mail, senha e informações de contato.
+Eles concordam com os termos e condições do site.
+Painel do Doador:
+
+Após o login, o doador é direcionado para um painel personalizado.
+Eles podem ver informações sobre doações anteriores, status de doações em andamento e relatórios de impacto.
+Pesquisa de ONGs e Projetos:
+
+O doador pode pesquisar ONGs com base em critérios como localização, causa, tipo de ajuda (moradia, alimentação, cuidados médicos etc.).
+Eles também podem explorar projetos específicos de ONGs.
+Seleção de Recursos para Doação:
+
+O doador seleciona uma ONG ou projeto para apoiar.
+Escolhe o tipo de recurso que deseja doar, como dinheiro, alimentos, roupas, voluntariado etc.
+Confirma a doação e fornece detalhes adicionais, como quantidade e método de pagamento.
+Confirmação da Doação:
+
+O doador recebe uma confirmação da doação e um recibo.
+Eles têm a opção de compartilhar a doação nas redes sociais para incentivar outros a doar.
+Acompanhamento e Relatórios de Impacto:
+
+O doador pode acompanhar o uso dos recursos por meio de atualizações da ONG ou projeto apoiado.
+Eles têm acesso a relatórios periódicos que mostram o impacto das doações.
+Fluxo do Usuário para Donos de ONGs:
+
+Página Inicial:
+
+O usuário chega à página inicial do site.
+Eles têm a opção de fazer login, se cadastrar como dono de ONG ou navegar anonimamente.
+Cadastro de Dono de ONG:
+
+Se o usuário optar por se cadastrar, eles fornecem informações sobre a ONG, incluindo nome, missão, localização, população atendida e tipos de recursos necessários.
+Eles concordam com os termos e condições do site.
+Painel do Dono de ONG:
+
+Após o login, o dono de ONG é direcionado para um painel personalizado.
+Eles podem gerenciar informações da ONG, como atualizações de necessidades, projetos em andamento e histórico de doações.
+Atualização de Necessidades:
+
+O dono da ONG pode atualizar as necessidades atuais da organização, como necessidade de moradia, alimentos, roupas, serviços médicos, voluntários etc.
+Eles podem adicionar detalhes sobre projetos específicos que estão buscando financiamento.
+Recebimento de Doações:
+
+Quando um doador escolhe a ONG ou projeto, o dono da ONG recebe uma notificação.
+Eles podem revisar e aceitar a doação, indicando como os recursos serão utilizados.
+Agradecimento e Comunicação:
+
+O dono da ONG envia agradecimentos aos doadores.
+Eles podem se comunicar com os doadores para fornecer atualizações sobre como os recursos estão sendo usados e relatórios de impacto.
+Este user flow abrange os principais pontos de interação entre doadores e donos de ONGs em um site de gestão de recursos para ajudar pessoas em situação de vulnerabilidade social. Certifique-se de que a plataforma seja amigável, segura e transparente, enfatizando o impacto positivo das doações.
 
 
 ## Wireframes
