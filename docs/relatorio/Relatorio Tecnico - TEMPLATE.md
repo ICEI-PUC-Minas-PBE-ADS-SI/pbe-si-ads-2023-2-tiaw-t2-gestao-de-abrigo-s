@@ -352,6 +352,11 @@ Página de Pesquisa:
 
 ![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/144696891/5077021f-731f-48c0-9b81-066f69be7258)
 
+Página de Relatórios:
+
+![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/144696891/08ebf2fd-9278-4c63-b761-d8ea45b55093)
+
+
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
