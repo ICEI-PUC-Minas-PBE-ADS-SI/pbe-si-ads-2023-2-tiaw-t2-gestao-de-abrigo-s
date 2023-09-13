@@ -327,8 +327,6 @@ Este user flow abrange os principais pontos de interação entre doadores e dono
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
 Tela de Login:
 
 ![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/144696891/e608daa1-34df-411a-93d5-607db135758d)
