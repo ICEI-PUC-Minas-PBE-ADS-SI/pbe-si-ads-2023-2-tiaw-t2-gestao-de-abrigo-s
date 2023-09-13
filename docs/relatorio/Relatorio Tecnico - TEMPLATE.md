@@ -107,6 +107,14 @@ Mapa de Empatia Persona 3:
 
 ![Mapa-empatia-3](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/142936348/602351b6-b69e-4bee-a018-37960df7f0e0)
 
+Persona 4:
+
+![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/144696891/9c610df5-3f23-4d60-83ed-802ee6fdd1ee)
+
+Mapa de Empatia Persona 4:
+
+![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/144696891/32a3939d-7871-468f-9058-e28464f3de88)
+
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
