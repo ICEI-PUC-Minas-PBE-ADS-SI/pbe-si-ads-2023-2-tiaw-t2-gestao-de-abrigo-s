@@ -333,15 +333,24 @@ Tela de Login:
 
 ![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/144696891/e608daa1-34df-411a-93d5-607db135758d)
 
+
 Tela de Cadastro:
 
 ![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/144696891/9b005d43-642c-4efa-937e-537d7438d7fa)
 
 
-Página Inicial:
+Página Inicial Usuário Comum:
 
 ![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/144696891/9eb015a2-10ec-4144-ba0b-974dd1d7c0c5)
 
+Página Inicial Gestor:
+
+![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/144696891/9eb3745a-f8a6-43e7-807b-ed3b68b56349)
+
+
+Página de Pesquisa:
+
+![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/144696891/5077021f-731f-48c0-9b81-066f69be7258)
 
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
