@@ -115,33 +115,16 @@ Mapa de Empatia Persona 4:
 
 ![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/144696891/32a3939d-7871-468f-9058-e28464f3de88)
 
+Persona 5: 
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
+![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/143046124/6494f72e-ca3a-45ce-9992-bbc7c4f0664a)
+
+Mapa de Empatia Persona 5:
+
+![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gestao-de-abrigo-s/assets/143046124/e2e2cb69-dfa4-468e-a8cc-49981954784a)
 
 
 ## Histórias de Usuários
-
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 Elisa Akemi nasceu em uma pequena comunidade rural, onde a falta de recursos era uma constante. Desde jovem, Maria sentiu a necessidade de fazer a diferença na vida das pessoas ao seu redor. Sua história é uma jornada de perseverança e dedicação à causa social.
 
@@ -170,9 +153,6 @@ Ricardo Oliveira, apesar de crescer em uma família financeiramente desafiada, t
 |EU COMO...                 | PRECISO ...                    |PARA ...                                |
 |--------------------       |--------------------------------|----------------------------------------|
 |Doador ativo em instituições de moradia temporária  | Doar valores e recursos      | Contribuir com o projeto e ajudar pessoas necessitadas |
-
-
-
 
 
 
@@ -220,14 +200,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| Não pode ser desenvolvido um módulo de backend        |
 |01| O Software deverá ser desenvolvido em HTML e CSS      |
 |02| O Software deve ser desenvolvido para versão mobile e web|
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 
 # Projeto de Interface
